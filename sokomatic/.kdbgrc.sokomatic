@@ -1,0 +1,10 @@
+# KDE Config File
+[Breakpoint 0]
+Enabled=true
+Temporary=false
+File=sokomatic.cc
+Line=165
+[General]
+WorkingDirectory=/home/jmc/src/sokomatic
+FileVersion=1
+ProgramArgs=autog49
